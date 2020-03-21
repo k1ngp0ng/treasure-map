@@ -1,8 +1,8 @@
 package com.fleboulch.treasuremap.application.domain;
 
-import com.fleboulch.treasuremap.explorer.domain.Explorer;
-import com.fleboulch.treasuremap.map.domain.Dimension;
-import com.fleboulch.treasuremap.map.domain.TreasureMap;
+import com.fleboulch.treasuremap.explorer.Explorer;
+import com.fleboulch.treasuremap.map.Dimension;
+import com.fleboulch.treasuremap.map.TreasureMap;
 import com.fleboulch.treasuremap.resolvers.*;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

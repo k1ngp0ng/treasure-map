@@ -1,6 +1,6 @@
 package com.fleboulch.treasuremap.application.domain;
 
-import com.fleboulch.treasuremap.kernel.exceptions.DomainException;
+import com.fleboulch.treasuremap.kernel.DomainException;
 import org.junit.jupiter.api.Test;
 
 import static java.util.Collections.emptyList;

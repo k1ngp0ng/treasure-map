@@ -1,7 +1,7 @@
 package com.fleboulch.treasuremap.application.domain;
 
-import com.fleboulch.treasuremap.explorer.domain.Explorer;
-import com.fleboulch.treasuremap.map.domain.Dimension;
+import com.fleboulch.treasuremap.explorer.Explorer;
+import com.fleboulch.treasuremap.map.Dimension;
 
 public class ExplorerIsOutOfMapException extends RuntimeException {
 

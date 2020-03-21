@@ -1,7 +1,7 @@
 package com.fleboulch.treasuremap.resolvers;
 
-import com.fleboulch.treasuremap.explorer.domain.*;
-import com.fleboulch.treasuremap.shared.coordinates.domain.Coordinates;
+import com.fleboulch.treasuremap.explorer.*;
+import com.fleboulch.treasuremap.coordinates.Coordinates;
 import org.junit.jupiter.api.extension.ExtensionContext;
 import org.junit.jupiter.api.extension.ParameterContext;
 import org.junit.jupiter.api.extension.ParameterResolutionException;

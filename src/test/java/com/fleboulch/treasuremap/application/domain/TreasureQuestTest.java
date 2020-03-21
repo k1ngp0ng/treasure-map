@@ -1,9 +1,14 @@
 package com.fleboulch.treasuremap.application.domain;
 
-import com.fleboulch.treasuremap.explorer.domain.*;
-import com.fleboulch.treasuremap.map.domain.*;
-import com.fleboulch.treasuremap.map.domain.exceptions.InvalidCurrentPositionException;
-import com.fleboulch.treasuremap.shared.coordinates.domain.Coordinates;
+import com.fleboulch.treasuremap.explorer.Explorer;
+import com.fleboulch.treasuremap.explorer.Name;
+import com.fleboulch.treasuremap.explorer.Orientation;
+import com.fleboulch.treasuremap.explorer.OrientationType;
+import com.fleboulch.treasuremap.map.Dimension;
+import com.fleboulch.treasuremap.map.InvalidCurrentPositionException;
+import com.fleboulch.treasuremap.map.MountainBox;
+import com.fleboulch.treasuremap.map.TreasureMap;
+import com.fleboulch.treasuremap.coordinates.Coordinates;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;

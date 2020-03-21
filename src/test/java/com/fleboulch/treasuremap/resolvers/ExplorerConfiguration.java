@@ -1,14 +1,12 @@
 package com.fleboulch.treasuremap.resolvers;
 
-import com.fleboulch.treasuremap.explorer.domain.MovementType;
-import com.fleboulch.treasuremap.explorer.domain.OrientationType;
+import com.fleboulch.treasuremap.explorer.MovementType;
+import com.fleboulch.treasuremap.explorer.OrientationType;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
-import java.util.Collections;
-import java.util.List;
 
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.PARAMETER)

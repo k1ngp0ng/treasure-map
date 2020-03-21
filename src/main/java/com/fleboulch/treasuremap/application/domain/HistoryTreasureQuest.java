@@ -1,10 +1,10 @@
 package com.fleboulch.treasuremap.application.domain;
 
-import com.fleboulch.treasuremap.explorer.domain.Explorer;
-import com.fleboulch.treasuremap.explorer.domain.Name;
-import com.fleboulch.treasuremap.kernel.domain.Domain;
-import com.fleboulch.treasuremap.map.domain.TreasureMap;
-import com.fleboulch.treasuremap.shared.coordinates.domain.Coordinates;
+import com.fleboulch.treasuremap.explorer.Explorer;
+import com.fleboulch.treasuremap.explorer.Name;
+import com.fleboulch.treasuremap.kernel.Domain;
+import com.fleboulch.treasuremap.map.TreasureMap;
+import com.fleboulch.treasuremap.coordinates.Coordinates;
 
 import java.util.ArrayList;
 import java.util.HashMap;

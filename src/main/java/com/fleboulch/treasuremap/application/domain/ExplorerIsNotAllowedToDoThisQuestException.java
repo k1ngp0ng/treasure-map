@@ -1,6 +1,6 @@
 package com.fleboulch.treasuremap.application.domain;
 
-import com.fleboulch.treasuremap.explorer.domain.Explorer;
+import com.fleboulch.treasuremap.explorer.Explorer;
 
 public class ExplorerIsNotAllowedToDoThisQuestException extends RuntimeException {
 

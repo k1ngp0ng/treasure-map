@@ -1,7 +1,7 @@
 package com.fleboulch.treasuremap.application.domain;
 
-import com.fleboulch.treasuremap.explorer.domain.Explorer;
-import com.fleboulch.treasuremap.kernel.domain.Domain;
+import com.fleboulch.treasuremap.explorer.Explorer;
+import com.fleboulch.treasuremap.kernel.Domain;
 
 import java.util.List;
 

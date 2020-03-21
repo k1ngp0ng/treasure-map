@@ -1,7 +1,7 @@
 package com.fleboulch.treasuremap.application.domain;
 
-import com.fleboulch.treasuremap.explorer.domain.Explorer;
-import com.fleboulch.treasuremap.explorer.domain.MovementType;
+import com.fleboulch.treasuremap.explorer.Explorer;
+import com.fleboulch.treasuremap.explorer.MovementType;
 import com.fleboulch.treasuremap.resolvers.*;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
